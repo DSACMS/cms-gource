@@ -1,0 +1,44 @@
+{
+  "name": "cms-gource",
+  "description": "Gource.io Visualization of Developer.CMS.gov Open Source repositories",
+  "longDescription": "This repository contains configuration scripts, log files, and graphic assets used to generate a source code repository visualization using Gource.",
+  "status": "Production",
+  "permissions": {
+    "license": [
+      {
+        "name": "CC0 1.0 Universal",
+        "URL": "https://github.com/DSACMS/cms-gource/blob/main/LICENSE"
+      }
+    ],
+    "usageType": "openSource",
+    "exemptionText": ""
+  },
+  "organization": "Centers for Medicare & Medicaid Services",
+  "repositoryURL": "https://github.com/DSACMS/cms-gource",
+  "vcs": "git",
+  "laborHours": 17736,
+  "platforms": ["web"],
+  "categories": ["applicant-tracking", "data-collection", "data-visualization"],
+  "softwareType": "standalone/web",
+  "languages": ["python"],
+  "maintenance": "internal",
+  "date": {
+    "created": "2023-08-21T15:47:26Z",
+    "lastModified": "2025-02-12T18:25:06Z",
+    "metaDataLastUpdated": "2025-02-12T18:27:00.385Z"
+  },
+  "tags": ["repository"],
+  "contact": {
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS/OA/DSAC"
+  },
+  "localisation": false,
+  "repositoryType": "data",
+  "userInput": false,
+  "fismaLevel": "low",
+  "group": "CMS/OA/DSAC",
+  "subsetInHealthcare": ["Operational"],
+  "userType": ["government"],
+  "repositoryHost": "github.com/DSACMS",
+  "maturityModelTier": 3
+}
