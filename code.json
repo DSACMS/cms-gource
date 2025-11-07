@@ -1,5 +1,6 @@
 {
   "name": "cms-gource",
+  "version": "",
   "description": "Gource.io Visualization of Developer.CMS.gov Open Source repositories",
   "longDescription": "This repository contains configuration scripts, log files, and graphic assets used to generate a source code repository visualization using Gource.",
   "status": "Production",
@@ -15,30 +16,60 @@
   },
   "organization": "Centers for Medicare & Medicaid Services",
   "repositoryURL": "https://github.com/DSACMS/cms-gource",
+  "repositoryHost": "github.com/DSACMS",
+  "repositoryVisibility": "public",
+  "homepageURL": "",
+  "downloadURL": "",
+  "disclaimerURL": "",
+  "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 17736,
-  "platforms": ["web"],
-  "categories": ["applicant-tracking", "data-collection", "data-visualization"],
+  "laborHours": 17738,
+  "reuseFrequency": {
+    "forks": 1,
+    "clones": 0
+  },
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "applicant-tracking",
+    "data-collection",
+    "data-visualization"
+  ],
   "softwareType": "standalone/web",
-  "languages": ["python"],
+  "languages": [],
   "maintenance": "internal",
+  "contractNumber": [],
+  "SBOM": "https://github.com/DSACMS/cms-gource/network/dependencies",
+  "relatedCode": [],
+  "reusedCode": [],
+  "partners": [],
   "date": {
     "created": "2023-08-21T15:47:26Z",
-    "lastModified": "2025-02-12T18:25:06Z",
-    "metaDataLastUpdated": "2025-02-12T18:27:00.385Z"
+    "lastModified": "2025-11-07T15:50:55Z",
+    "metadataLastUpdated": "2025-11-07T15:53:00.371Z"
   },
-  "tags": ["repository"],
+  "tags": [
+    "repository"
+  ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
     "name": "CMS/OA/DSAC"
   },
+  "feedbackMechanism": "https://github.com/DSACMS/cms-gource/issues",
+  "AIUseCaseID": "0",
   "localisation": false,
   "repositoryType": "data",
   "userInput": false,
   "fismaLevel": "low",
   "group": "CMS/OA/DSAC",
-  "subsetInHealthcare": ["Operational"],
-  "userType": ["government"],
-  "repositoryHost": "github.com/DSACMS",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [
+    "Operational"
+  ],
+  "userType": [
+    "government"
+  ],
   "maturityModelTier": 3
 }
