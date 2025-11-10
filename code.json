@@ -37,7 +37,9 @@
     "data-visualization"
   ],
   "softwareType": "standalone/web",
-  "languages": [],
+  "languages": [
+    "Shell"
+  ],
   "maintenance": "internal",
   "contractNumber": [],
   "SBOM": "https://github.com/DSACMS/cms-gource/network/dependencies",
