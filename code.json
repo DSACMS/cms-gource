@@ -46,12 +46,17 @@
   "contractNumber": [],
   "SBOM": "https://github.com/DSACMS/cms-gource/network/dependencies",
   "relatedCode": [],
-  "reusedCode": [],
+  "reusedCode": [
+    {
+      "name": "decause-gov/cms-gource",
+      "URL": "https://github.com/decause-gov/cms-gource"
+    }
+  ],
   "partners": [],
   "date": {
     "created": "2023-08-21T15:47:26Z",
-    "lastModified": "2025-11-13T21:43:13Z",
-    "metadataLastUpdated": "2025-12-01T01:01:01.476Z"
+    "lastModified": "2025-12-12T19:27:50Z",
+    "metadataLastUpdated": "2026-11-01T02:57:38.700Z"
   },
   "tags": [
     "repository",
